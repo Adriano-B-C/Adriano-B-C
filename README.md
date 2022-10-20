@@ -52,4 +52,23 @@ Here are some ideas to get you started:
 
   ![Snake animation](https://github.com/Adriano-B-C/Adriano-B-C/blob/output/github-contribution-grid-snake.svg)
   
- </div>
+</div>
+  
+##    
+  
+<div align="center">
+    
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=adrianodbcorrea&wideshow_retweet=off&show_reply=off&layout=wide)](https://github.com/gazf/github-readme-twitter)
+  
+</div>
+    
+
+<div align="center">
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+</div>
+  
+ <p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom" />
+</p> 
